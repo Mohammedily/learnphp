@@ -1,0 +1,23 @@
+.forms{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 90vh;
+}
+
+.p{
+    font-size: 23px;
+}
+
+.a{
+    font-size: 20px;
+}
+
+.as{
+    background-color: black;
+    color: white;
+    font-size: 20px;
+    padding: 10px;
+    text-decoration: none;
+}
